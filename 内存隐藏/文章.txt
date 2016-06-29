@@ -1,0 +1,8 @@
+内存隐藏学习总结  http://bbs.pediy.com/showthread.php?t=190573
+【分享】Windows 内存隐藏/内存欺骗 ShadowWalker 加强版 http://bbs.pediy.com/showthread.php?t=194933
+Raising The Bar For Windows Rootkit Detection   http://phrack.org/issues/63/8.html
+Quick Note on Shadow Page Table   http://fleurer-lee.com/2013/05/19/shadow-quick-note.html
+【原创】ShadowWalker内存伪装详细过程，附完整测试源码  http://bbs.pediy.com/showthread.php?t=185087
+【求助】修改汇编指令实际操作 http://bbs.pediy.com/showthread.php?t=183520
+【原创】Windows内存隐藏技术初探 http://bbs.pediy.com/showthread.php?t=56689
+https://www.yumpu.com/en/document/view/24086580/idt-github/29
